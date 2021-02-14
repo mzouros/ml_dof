@@ -88,6 +88,10 @@ Mean and Standard Deviation Averages of various Metrics on k ranges 1-15
 
 ![alt text](https://imgur.com/jDlGCXa.png)
 
+**Note**: The confusion matrix generated has the following structure:
+
+![alt text](https://static.packt-cdn.com/products/9781838555078/graphics/C13314_06_05.jpg)
+
 #### Precision-Recall & ROC Curves
 
 ![alt text](https://imgur.com/AC354ws.png)
