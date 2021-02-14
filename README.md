@@ -40,6 +40,13 @@ Instructor: Mr. Theodoros Giannakopoulos - [tygiannak](https://github.com/tyiann
 * Histograms (RGB, Grayscale, Edges)
 * Gradients (Sobel, Laplacian)
 
+![alt text](https://imgur.com/wsDnZha.png)
+![alt text](https://imgur.com/JOQSzjZ.png)
+![alt text](https://imgur.com/zU214dY.png)
+![alt text](https://imgur.com/q4kdEoI.png)
+![alt text](https://imgur.com/3lqrA8k.png)
+![alt text](https://imgur.com/oai2EYM.png)
+
 ### Feature Extraction
 
 * For kNN, SVC:
@@ -52,6 +59,10 @@ Instructor: Mr. Theodoros Giannakopoulos - [tygiannak](https://github.com/tyiann
 
 * For CNN there is no need for Feature Extraction
 
+![alt text](https://imgur.com/neF0nwD.png)
+![alt text](https://imgur.com/p2yxWFL.png)
+![alt text](https://imgur.com/2XGtNCi.png)
+
 ### Data Revision and Augmentation
 
 After experimenting with the initial dataset:
@@ -61,17 +72,29 @@ After experimenting with the initial dataset:
 
 ### kNN Implementation
 
-#### Train/Test Accuracy for SVC
-
 #### Results
+
+Mean and Standard Deviation Averages of various Metrics on k ranges 1-15
+
+![alt text](https://imgur.com/SNe4FJg.png)
 
 ### SVC Implementation
 
-#### Precision-Recall & ROC Curves
+#### Train/Test Accuracy VS Model Complexity
+
+![alt text](https://imgur.com/hM6YkfU.png)
 
 #### Results
 
+![alt text](https://imgur.com/jDlGCXa.png)
+
+#### Precision-Recall & ROC Curves
+
+![alt text](https://imgur.com/AC354ws.png)
+
 ### CNN Implementation
+
+That's a secret...
 
 ### Discussion
 
@@ -93,17 +116,9 @@ Experiment with:
 * Bigger image size (maybe 600x600)
 * SMOTE for Dataset’s balancing
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Authors
 
-* **Michael Zouros**
+* **Michael Zouros** - [mzouros](https://github.com/mzouros)
 
 ## License
 
@@ -111,7 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [tygiannak](https://github.com/tyiannak)
-* [sniafas](https://github.com/sniafas)
-* [tangming2008](https://github.com/tangming2008)
+* Theodoros Giannakopoulos - [tygiannak](https://github.com/tyiannak)
+* Steve Niafas - [sniafas](https://github.com/sniafas)
+* Ming Tang - [tangming2008](https://github.com/tangming2008)
 
